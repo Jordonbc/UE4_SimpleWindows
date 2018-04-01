@@ -5,4 +5,4 @@ Create Simple messages with this easy to use plugin. The Simple Messages by Jord
 
 ## How to use
 
-![GitHub Logo](Images/Blueprints.png)
+![GitHub Logo](Images/BlueprintsDetectButtonPressed.png)
