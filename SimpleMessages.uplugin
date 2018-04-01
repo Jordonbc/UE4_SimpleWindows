@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "SimpleMessages",
+	"Description": "Create Simple messages with this easy to use plugin. The Simple Messages by Jordon Brooks aims to provide developers instantly create custom messages in Unreal Engine 4.",
+	"Category": "Jordon Brooks",
+	"CreatedBy": "Jordon Brooks",
+	"CreatedByURL": "https://jordonbc.github.io",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"Installed": false
+}
