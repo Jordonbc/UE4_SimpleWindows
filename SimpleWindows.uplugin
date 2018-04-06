@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Simple Windows",
+	"Description": "Create simple windows with this easy to use plugin. The Simple Windows by Jordon Brooks aims to provide developers instantly create custom draggable windows inside Unreal Engine 4.",
+	"Category": "Jordon Brooks",
+	"CreatedBy": "Jordon Brooks",
+	"CreatedByURL": "https://jordonbc.github.io",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"Installed": false
+}
