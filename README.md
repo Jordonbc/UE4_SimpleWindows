@@ -1,5 +1,5 @@
-# Simple Messages
-Create Simple messages with this easy to use plugin. The Simple Messages by Jordon Brooks aims to provide developers access to instantly create custom messages in Unreal Engine 4.
+# Simple Windows
+Create simple windows with this easy to use plugin. The Simple Windows by Jordon Brooks aims to provide developers access to instantly create custom draggable windows inside Unreal Engine 4.
 
 ![Image of Message](Images/SimpleMessage.png)
 
